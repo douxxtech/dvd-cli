@@ -1,0 +1,41 @@
+{
+    "name": "dvd-cli",
+    "version": "1.0.0",
+    "description": "The ultimate ASCII DVD bouncer for your terminal",
+    "main": "src/dvd-cli.js",
+    "bin": {
+      "dvd-cli": "src/dvd-cli.js"
+    },
+    "scripts": {
+      "start": "node src/dvd-cli.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/douxxtech/dvd-cli.git"
+    },
+    "keywords": [
+      "dvd",
+      "cli",
+      "ascii",
+      "screensaver",
+      "terminal",
+      "animation"
+    ],
+    "author": "douxxtech",
+    "license": "GPL-3.0",
+    "bugs": {
+      "url": "https://github.com/douxxtech/dvd-cli/issues"
+    },
+    "homepage": "https://github.com/douxxtech/dvd-cli",
+    "dependencies": {
+      "os": "^0.1.2",
+      "fs": "0.0.2",
+      "child_process": "^1.0.2"
+    },
+    "devDependencies": {},
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+  
