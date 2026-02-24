@@ -1,4 +1,4 @@
-![DVD-CLI Banner](https://togp.xyz/?owner=douxxtech&repo=dvd-cli&avatar=false&theme=bash-dark-all&cache=false)
+![DVD-CLI Banner](https://togp.douxx.tech/?owner=douxxtech&repo=dvd-cli&avatar=false&theme=bash-dark-all&cache=false)
 
 # DVD-CLI: The Ultimate ASCII DVD Bouncer
 
@@ -71,5 +71,6 @@ dvd-cli --command "echo Hello" --speed 50 --no-banner --no-user --monochrome --t
 ## 📞 Contact
 
 For any questions or feedback, feel free to reach out to the maintainer:
+
 
 - GitHub: [@douxxtech](https://github.com/douxxtech)
